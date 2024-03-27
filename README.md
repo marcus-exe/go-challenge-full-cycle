@@ -10,7 +10,7 @@ touch main.go
 ```
 3. Create a Dockerfile and run the following commands:
 ```
-docker build . -t go-containerized:latest
+docker build . -t user_name/go-containerized:latest
 docker run go-containerized:latest
 ```
-# go-challenge-full-cycle
+imagem Docker: https://hub.docker.com/repository/docker/marcus21/go-containerized/general
